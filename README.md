@@ -127,5 +127,4 @@ This allowed us to name segments like:
 
 These segments can be used to design personalized marketing campaigns.
 
-📜 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
