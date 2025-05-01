@@ -3,23 +3,6 @@
 🧠 User Profiling and Segmentation for Ad Campaigns
 This project demonstrates how to perform User Profiling and Segmentation using Python. It walks through the complete process of analyzing user data, identifying patterns in behavior and demographics, and clustering users into distinct segments. These insights can be used to power targeted ad campaigns, personalized content, and strategic decision-making.
 
-📌 Table of Contents
-Overview
-
-Dataset
-
-Technologies Used
-
-Process
-
-Exploratory Data Analysis (EDA)
-
-User Segmentation (Clustering)
-
-Results & Interpretation
-
-License
-
 🧩 Overview
 User profiling helps you understand user preferences and behavioral patterns, while segmentation enables you to group similar users together. This project uses clustering techniques (K-Means) to group users based on features such as:
 
